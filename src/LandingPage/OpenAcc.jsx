@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import React from 'react';
 function OpenAcc() {
     return (
@@ -12,7 +12,7 @@ function OpenAcc() {
       );
 }
 
-=======
+
 import React from 'react';
 function OpenAcc() {
     return (
@@ -26,5 +26,5 @@ function OpenAcc() {
       );
 }
 
->>>>>>> 1fde73f1711be8eae1fd3d8e3e275fe50ddf66fc
+
 export default OpenAcc;
