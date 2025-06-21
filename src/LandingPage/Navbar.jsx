@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import React from 'react';
 import { Link } from 'react-router-dom';
 
@@ -42,7 +42,7 @@ function Navbar() {
     );
 }
 
-=======
+
 import React from 'react';
 
 function Navbar() {
@@ -87,5 +87,5 @@ function Navbar() {
     );
 }
 
->>>>>>> 1fde73f1711be8eae1fd3d8e3e275fe50ddf66fc
+
 export default Navbar;

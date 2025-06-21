@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import React from 'react';
 function Footer() {
     return (
@@ -84,13 +84,6 @@ function Footer() {
     );
 }
 
-=======
-import React from 'react';
-function Footer() {
-    return ( 
-        <h1>footer of this page</h1>
-     );
-}
 
->>>>>>> 1fde73f1711be8eae1fd3d8e3e275fe50ddf66fc
+
 export default Footer;
