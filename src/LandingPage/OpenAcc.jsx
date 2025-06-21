@@ -13,7 +13,4 @@ function OpenAcc() {
 }
 
 
-
-
-
 export default OpenAcc;
