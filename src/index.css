@@ -1,0 +1,27 @@
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+.nav-link{
+  margin-left: 40px;
+}
+
+<<<<<<< HEAD
+#font-weight{
+  font-weight: 400;
+}
+
+.links-container a{
+  text-decoration: none;
+  color: rgb(90, 90, 90);
+}
+
+.links-container a:hover{
+
+  color: blue;
+}
+=======
+
+>>>>>>> 1fde73f1711be8eae1fd3d8e3e275fe50ddf66fc
