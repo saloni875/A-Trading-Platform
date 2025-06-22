@@ -4,7 +4,7 @@ function Awards() {
     return (
         <div className='container mt-5 mb-5'>
             <div className='row mx-4'>
-                <div className='col-lg-6 col-sm-12 '>
+                <div className='col-lg-6 col-sm-12 text-muted'>
                     <h2>Trust with confidence</h2>
                     <div>
                         <h4>Customer-first always</h4>

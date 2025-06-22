@@ -14,7 +14,7 @@ function HomePage() {
             <Pricing/>
             <Education/>
             <OpenAcc/>
-           <div><h1>helo from home page</h1></div>
+          
         </>
      );
 }
