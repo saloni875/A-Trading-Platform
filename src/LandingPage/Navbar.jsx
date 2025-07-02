@@ -24,10 +24,10 @@ function Navbar() {
                                 <Link className="nav-link" to="/about">About</Link>
                             </li>
                             <li clasNames="nav-item">
-                                <Link className="nav-link" to="/pricing">Pricing</Link>
+                                <Link className="nav-link" to="/product">Product</Link>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link" to="/product">Product</Link>
+                                <Link className="nav-link" to="/pricing">Pricing</Link>
                             </li>
                             <li className="nav-item">
                                 <Link className="nav-link" to="/support">Support</Link>
