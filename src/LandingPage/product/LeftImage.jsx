@@ -11,7 +11,7 @@ function LeftImage({
                 </div>
                 <div className="col-6 p-5 mt-5 " >
                     <div style={{paddingLeft: "90px"}}>
-                        <h1>{ProductName}</h1>
+                        <h2>{ProductName}</h2>
                     <p style={{fontSize:"18px"}}>{productDescription}</p>
                     <div className=''>
                         <a href={tryDemo} style={{textDecoration:"none"}}>Try Demo → </a> 
