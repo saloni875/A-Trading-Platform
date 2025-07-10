@@ -1,5 +1,5 @@
 import { StrictMode } from 'react'
-
+import './index.css';
 import { createRoot } from 'react-dom/client';
 import './index.css'
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
@@ -22,12 +22,12 @@ createRoot(document.getElementById('root')).render(
   <Navbar/>
     <Routes>
       <Route path='/' element={<HomePage />} />
-      <Route path='/signup' element={<Signup />} />
+      {/* <Route path='/signup' element={<Signup />} />
       <Route path='/about' element={<About />} />
       <Route path='/pricing' element={<Pricing />} />
       <Route path='/support' element={<Support />} />
-      <Route path='/product' element={<Product />} />
-      <Route path='*' element={Notfound} />
+      <Route path='/product' element={<Product />} /> */}
+      {/* <Route path='*' element={Notfound} /> */}
     </Routes>
     <Footer/>
   </BrowserRouter>
